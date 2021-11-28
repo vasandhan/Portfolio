@@ -6,23 +6,30 @@ function Particle() {
     <Particles
       params={{
         particles: {
+          color: {
+            value: ["#FFC5D0", "#FF0080", "#F8F9FC"]
+          },
+          links: {
+            color: "#FF0080",
+            enable: true
+          },
           number: {
-            value: 160,
+            value: 70,
             density: {
               enable: true,
               value_area: 1500,
             },
           },
           line_linked: {
-            enable: false,
+            enable: true,
             opacity: 0.03,
           },
           move: {
-            direction: "right",
-            speed: 0.05,
+            direction: ["right","left","down","up"],
+            speed: 5,
           },
           size: {
-            value: 1,
+            value: 3,
           },
           opacity: {
             anim: {
@@ -45,7 +52,7 @@ function Particle() {
             },
           },
         },
-        retina_detect: true,
+        retina_detect: false,
       }}
     />
   );
