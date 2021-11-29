@@ -1,6 +1,6 @@
 <h2 align="center">
   Portfolio Website - v2.0<br/>
-  <a href="https://github.com/vasandhan" target="_blank">vasandhan.tech</a>
+  <a href="https://vasandhan.tech" target="_blank">vasandhan.tech</a>
 </h2>
 
 <br/>
@@ -22,7 +22,7 @@
 
 ## TL;DR
 
-You can fork this repo to modify and make changes of your own. Please give me proper credit by linking back to [vasandhan](https://vasandhan.tech). Thanks!
+You can fork this repo to modify and make changes of your own. Please give me proper credit by linking back to [vasandhan](https://github.com/vasandhan/Portfolio-1). Thanks!
 
 ## Built With
 
